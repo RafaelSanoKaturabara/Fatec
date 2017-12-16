@@ -1,0 +1,22 @@
+c:\users\fatec\documents\visual studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\bin\Debug\BD_PrimSem2017_Noite.exe
+c:\users\fatec\documents\visual studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\bin\Debug\BD_PrimSem2017_Noite.pdb
+c:\users\fatec\documents\visual studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fatec\documents\visual studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.Properties.Resources.resources
+c:\users\fatec\documents\visual studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\fatec\documents\visual studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\fatec\documents\visual studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.exe
+c:\users\fatec\documents\visual studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.pdb
+C:\Users\Fatec\Documents\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.FormBanco.resources
+C:\Users\Fatec\Documents\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.FormIncluir.resources
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.exe
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.pdb
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.csprojResolveAssemblyReference.cache
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.FormBanco.resources
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.FormIncluir.resources
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.Properties.Resources.resources
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.csproj.GenerateResource.Cache
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.FormAlteracao.resources
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\bin\Debug\BD_PrimSem2017_Noite.exe
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\bin\Debug\BD_PrimSem2017_Noite.pdb
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.FormListagem.resources
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\BD_PrimSem2017_Noite\BD_PrimSem2017_Noite\obj\x86\Debug\BD_PrimSem2017_Noite.FormExclusao.resources

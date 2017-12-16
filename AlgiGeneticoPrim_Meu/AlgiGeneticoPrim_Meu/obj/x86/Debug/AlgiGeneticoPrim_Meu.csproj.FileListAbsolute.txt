@@ -1,0 +1,5 @@
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\AlgiGeneticoPrim_Meu\AlgiGeneticoPrim_Meu\bin\Debug\AlgiGeneticoPrim_Meu.exe
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\AlgiGeneticoPrim_Meu\AlgiGeneticoPrim_Meu\bin\Debug\AlgiGeneticoPrim_Meu.pdb
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\AlgiGeneticoPrim_Meu\AlgiGeneticoPrim_Meu\obj\x86\Debug\AlgiGeneticoPrim_Meu.csprojResolveAssemblyReference.cache
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\AlgiGeneticoPrim_Meu\AlgiGeneticoPrim_Meu\obj\x86\Debug\AlgiGeneticoPrim_Meu.exe
+D:\Rafael Sano Katurabara\Documentos\Visual Studio 2010\Projects\AlgiGeneticoPrim_Meu\AlgiGeneticoPrim_Meu\obj\x86\Debug\AlgiGeneticoPrim_Meu.pdb

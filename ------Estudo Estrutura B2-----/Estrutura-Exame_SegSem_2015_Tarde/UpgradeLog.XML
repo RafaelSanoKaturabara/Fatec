@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Estoque_Tarde">
+</Property><Property Name="Solution File" Value="C:\FATEC_MC_ProvaB2_SegSem2014\LP-B2_SegSem_2014\Estoque_Tarde.sln">
+</Property><Property Name="User Options File" Value="C:\FATEC_MC_ProvaB2_SegSem2014\LP-B2_SegSem_2014\Estoque_Tarde.suo">
+</Property><Property Name="Date" Value="quarta-feira, 19 de novembro de 2014">
+</Property><Property Name="Time" Value="08:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Estoque_Tarde.sln" Description="File successfully backed up as C:\FATEC_MC_ProvaB2_SegSem2014\LP-B2_SegSem_2014\Estoque_Tarde.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Estoque_Tarde.suo" Description="File successfully backed up as C:\FATEC_MC_ProvaB2_SegSem2014\LP-B2_SegSem_2014\Estoque_Tarde.suo.old">
+</Event><Event ErrorLevel="0" Project="Estoque_Tarde" Source="Estoque_Tarde\Estoque_Tarde.vcproj" Description="Converting project file 'C:\FATEC_MC_ProvaB2_SegSem2014\LP-B2_SegSem_2014\Estoque_Tarde\Estoque_Tarde.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Estoque_Tarde" Source="Estoque_Tarde\Estoque_Tarde.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Estoque_Tarde" Source="Estoque_Tarde\Estoque_Tarde.vcproj" Description="Done converting to new project file 'C:\FATEC_MC_ProvaB2_SegSem2014\LP-B2_SegSem_2014\Estoque_Tarde\Estoque_Tarde.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Estoque_Tarde" Source="Estoque_Tarde\Estoque_Tarde.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Estoque_Tarde.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Estoque_Tarde.sln" Description="Converted">
+</Event></UpgradeLog>
